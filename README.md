@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amscheltech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amscheltech" height="30" width="40" /></a>
+<a href="https://twitter.com/amscheltech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amscheltech" height="31" width="40" /></a>
 <a href="https://linkedin.com/in/amschel-kariuki-a83b9a230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amschel-kariuki-a83b9a230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19179296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19179296" height="30" width="40" /></a>
 <a href="https://hashnode.com/@techlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@techlia" height="30" width="40" /></a>
