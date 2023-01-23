@@ -1,5 +1,8 @@
 # 💫 About Me:
- Computer Science Student, Back-End Engineer, on the road to being a graphics wizard. <br>I specialize in Javascript. This ranges from building server side applications using Node JS to creating sleek frontend applications using React, Html5 and the canvas API.  <li>🌱 <b>I’m currently learning</b>:AI and Augmented Reality</li><br>             <li>🌱 <b>Chief Technology Officer at</b>: <a href="https://jamiitraffic.co.ke">Jamii Traffic</a></li><br>              <li>🌱 <b>Learn more about me on  </b>: <a href="https://amschel.tech">My personal website</a></li>                                                                                                                                                         <br>           <br>            <li>😄 <b>Fun fact</b>: I love  Coding(💻), Reading(📕), and Video Editing(📷).</li><br>            <li>👨‍💻 <b>Currently building </b>: <a href="https://carhub-xi.vercel.app">Mota Automobiles</a>.</li><br>          
+Crafting elegant solutions,
+In code my passion evolves.
+A student of computer science,
+Challenges are my expertise.        
 
 
 ## 🌐 Socials:
