@@ -1,5 +1,5 @@
 # 
-A combination of grit, grind, and a relentless pursuit of excellence== Great software
+A combination of grit, grind, and a relentless pursuit of excellence == Great software
        
 
 
