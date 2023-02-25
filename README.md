@@ -1,8 +1,6 @@
-# 💫 About Me:
-Crafting elegant solutions,
-In code my passion evolves.
-A student of computer science,
-Challenges are my expertise.        
+# 
+A combination of grit, grind, and a relentless pursuit of excellence== Great software
+       
 
 
 ## 🌐 Socials:
