@@ -1,6 +1,7 @@
 # 
-A combination of grit, grind, and a relentless pursuit of excellence == Great software
-       
+Experimenting with NODE JS + RUST + TYPESCRIPT + GRAPHQL
+Learning Rust.
+Also reading the book, ## Deep learning and adaptive communication
 
 
 ## 🌐 Socials:
