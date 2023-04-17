@@ -1,7 +1,7 @@
-# 
-Experimenting with NODE JS + RUST + TYPESCRIPT + GRAPHQL
-Learning Rust.
-Also reading the book, ## Deep learning and adaptive communication
+
+#### Experimenting with NODE JS + RUST + TYPESCRIPT + GRAPHQL
+###### Learning Rust.
+###### Also reading the book, Deep learning and adaptive communication
 
 
 ## 🌐 Socials:
