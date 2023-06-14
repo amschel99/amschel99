@@ -1,7 +1,9 @@
 
-#### Experimenting with NODE JS + RUST + TYPESCRIPT + GRAPHQL
-###### Learning Rust.
-###### Also reading the book, Deep learning and adaptive communication
+#### Hi there, I'm Amschel
+###### A fullstack software developer. I can independently handle the backend, frontend, testing and DevOps.
+######  Currently, I'm building web services using Node.js and client side Javascript technologies.
+##### I'm also learning Rust with a bigger picture of getting into blockchain development.
+##### I'm also an ffmpeg expert. I love building multimedia processing applications using ffmpeg.
 
 
 ## 🌐 Socials:
