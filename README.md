@@ -1,9 +1,8 @@
 
 #### Hi there, I'm Amschel
-###### A fullstack software developer. I can independently handle the backend, frontend, testing and DevOps.
-######  Currently, I'm building web services using Node.js and client side Javascript technologies.
-##### I'm also learning Rust with a bigger picture of getting into blockchain development.
-##### I'm also an ffmpeg expert. I love building multimedia processing applications using ffmpeg.
+######  Currently, I'm building backend services using Node.js and cross-platform apps using React native.
+##### I'm looking to collaborate on Rust blockchain projects.
+
 
 
 ## 🌐 Socials:
