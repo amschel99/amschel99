@@ -1,6 +1,6 @@
 
 #### Hi there, I'm Amschel
-######  Currently, I'm building backend services using Node.js and cross-platform apps using React native.
+######  Node.js and React developer
 ##### I'm looking to collaborate on Rust blockchain projects.
 
 
