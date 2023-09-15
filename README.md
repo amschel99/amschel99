@@ -1,7 +1,7 @@
 
 #### Hi there, I'm Amschel
-######  Node.js and React developer
-##### I'm looking to collaborate on Rust blockchain projects.
+######  I love Rust, Typescript and Node.js
+##### I'm a software engineer at particle ventures
 
 
 
