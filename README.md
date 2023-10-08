@@ -1,7 +1,5 @@
 
-#### Hi there, I'm Amschel
-######  I love Rust, Typescript and Node.js
-##### I'm a software engineer at particle ventures
+## Almost a Rustacean
 
 
 
