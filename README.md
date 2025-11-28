@@ -1,5 +1,23 @@
-As a DeFi architect, I build the foundational layers for a more open and accessible financial system. I'm currently leading two ventures that bridge real-world commerce with on-chain finance:
+# DeFi Architect
 
-Liquid Royalty: We are pioneering the tokenization of real-world revenue streams. By securitizing e-commerce royalties from merchants on a global scale, we are creating a new, scalable asset class on the Berachain. This provides merchants with immediate working capital and offers DeFi investors a novel source of yield backed by real economic activity.
+I build the foundational layers for a more open and accessible financial system. Currently leading two ventures that bridge real-world commerce with on-chain finance:
 
-Rift Finance: We are building the borderless neobank for the on-chain era. By leveraging blockchain, we offer a global suite of financial products—from savings and credit to investment vehicles—making them accessible to anyone with an internet connection, anywhere in the world.
+## Liquid Royalty
+**Pioneering the tokenization of real-world revenue streams**
+
+- Securitizing e-commerce royalties from merchants at scale
+- Creating a new, scalable asset class on **Berachain**
+- Providing merchants with immediate working capital
+- Offering DeFi investors novel yield backed by real economic activity
+
+## Rift Finance
+**The borderless neobank for the on-chain era**
+
+- Leveraging blockchain for global financial inclusion
+- Complete suite of products: savings, credit, and investment vehicles
+- Accessible to anyone with an internet connection
+- Breaking down economic borders worldwide
+
+---
+
+*Building the infrastructure for a more open financial future*
